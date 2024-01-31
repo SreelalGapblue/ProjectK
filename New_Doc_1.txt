@@ -1,6 +1,0 @@
-echo "Good Morning"
-echo "Second Change"
-echo "Third Change"
-echo "4"
-echo "5"
-echo "uugkbjhj"
