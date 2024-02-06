@@ -1,1 +1,0 @@
-select count(name) from students;
